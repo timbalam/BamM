@@ -1,4 +1,5 @@
-from distutils.core import setup
+#!/usr/bin/env python2
+from setuptools import setup
 import sys
 from subprocess import check_call
 from os.path import join, abspath, exists
